@@ -1,0 +1,26 @@
+\begin{tabular}{llr}
+\toprule
+{} &             index &  Funding Portion \\
+\midrule
+1  &              math &            0.159 \\
+2  &  physics:cond-mat &            0.105 \\
+3  &  physics:astro-ph &            0.104 \\
+4  &   physics:physics &           0.0856 \\
+5  &    physics:hep-th &           0.0796 \\
+6  &                cs &           0.0711 \\
+7  &  physics:quant-ph &           0.0692 \\
+8  &    physics:hep-ph &           0.0597 \\
+9  &   physics:math-ph &           0.0495 \\
+10  &              stat &           0.0386 \\
+11 &   physics:nucl-th &           0.0374 \\
+12 &     physics:gr-qc &           0.0339 \\
+13 &             q-bio &             0.03 \\
+14 &      physics:nlin &           0.0188 \\
+15 &    physics:hep-ex &           0.0178 \\
+16 &   physics:nucl-ex &           0.0127 \\
+17 &   physics:hep-lat &           0.0126 \\
+18 &             q-fin &            0.012 \\
+19 &              eess &          0.00375 \\
+20 &              econ &         0.000101 \\
+\bottomrule
+\end{tabular}
